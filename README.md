@@ -2,8 +2,8 @@
 
 [![PyPI](https://img.shields.io/pypi/v/dghs-videoutils)](https://pypi.org/project/dghs-videoutils/)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dghs-videoutils)
-![Loc](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/narugo1992/8bfaa96eaa25cc9dac54debbf22d363d/raw/loc.json)
-![Comments](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/narugo1992/8bfaa96eaa25cc9dac54debbf22d363d/raw/comments.json)
+![Loc](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/narugo1992/acad02b00904190c320b816d0c37a73d/raw/loc.json)
+![Comments](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/narugo1992/acad02b00904190c320b816d0c37a73d/raw/comments.json)
 
 [![Code Test](https://github.com/deepghs/videoutils/workflows/Code%20Test/badge.svg)](https://github.com/deepghs/videoutils/actions?query=workflow%3A%22Code+Test%22)
 [![Package Release](https://github.com/deepghs/videoutils/workflows/Package%20Release/badge.svg)](https://github.com/deepghs/videoutils/actions?query=workflow%3A%22Package+Release%22)
